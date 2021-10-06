@@ -27,10 +27,15 @@ img {
 	max-width: 100%;
 	height: auto
 }
-#header {
-  background: black url(/images/arushis1.jpg) center no-repeat;
+imagehead{ 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0 3em 0 3em; 
+margin: -1.5em -0.5em -0.5em -1em; 
+  width: absolute;
+  max-width: 100%; 
 }
-
 
 
 /* Place text in the middle of the image */
